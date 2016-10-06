@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/selenium/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/selenium/client-combined-3.0.0-beta2-nodeps.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/selenium/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/selenium/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/selenium/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/selenium/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/selenium/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/selenium/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/selenium/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/selenium/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/selenium/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/selenium/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/selenium/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/selenium/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/selenium/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/selenium/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/selenium/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/testng/jcommander-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jars/testng/testng-6.9.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
